@@ -122,3 +122,14 @@ a:focus,
 a:active {
   color: #8c7ae6;
 }
+
+.fa-quote-left {
+  font-size: 8rem;
+  position: absolute;
+  transform: rotate(-20deg);
+  top: 50px;
+  left: -10px;
+  color: #8c7ae6;
+  opacity: 0.1;
+  pointer-events: none;
+}

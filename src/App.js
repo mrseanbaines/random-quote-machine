@@ -36,6 +36,7 @@ class App extends Component {
       <div className="wrapper">
         <h1 className="text-center">Random Quote Machine</h1>
         <div id="quote-box" className="push-top">
+          <i class="fas fa-quote-left"></i>
           <div id="text">{quote}</div>
           <div id="author">- {author}</div>
           <ul className="buttons hoz">
