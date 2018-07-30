@@ -86,6 +86,7 @@ ul li {
 .btn:hover,
 .btn:focus {
   border-color: #9c88ff;
+  color: #9c88ff;
 }
 
 .twitter,
